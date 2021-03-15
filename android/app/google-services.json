@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097256149367",
+    "project_id": "appointment-48201",
+    "storage_bucket": "appointment-48201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097256149367:android:10c32992b8d233ffef8172",
+        "android_client_info": {
+          "package_name": "com.feemag.appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097256149367-vfns6tsb2onqfiha24nl7mqqbqnhti6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_IPwiM2T--wHzNqA06Z-W6aVvRPOLmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097256149367-vfns6tsb2onqfiha24nl7mqqbqnhti6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
